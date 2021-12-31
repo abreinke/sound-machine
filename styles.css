@@ -44,7 +44,7 @@ h3{
 }
 
 .project-description {
-  float: left;
+  float: right;
   width: 35%;
   height: auto;
   margin: 5px;
@@ -57,7 +57,7 @@ h3{
 }
 
  ul {
-    float: left;
+    float: right;
     margin: 5px;
     padding: 10px;
     width: 35%;
